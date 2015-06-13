@@ -1,0 +1,3 @@
+noodle_id	food_id
+1	うどん
+2	そば
