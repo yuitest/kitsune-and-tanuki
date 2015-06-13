@@ -1,0 +1,3 @@
+animal_id	sound	sound_short
+1	コンコン	コン
+2	ポンポコ	ポン
