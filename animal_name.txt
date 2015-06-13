@@ -1,0 +1,7 @@
+animal_id	animal_name_ja
+1	狐
+2	狸
+1	きつね
+2	たぬき
+1	キツネ
+2	タヌキ
